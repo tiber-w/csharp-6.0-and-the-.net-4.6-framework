@@ -1,0 +1,1 @@
+D:\Documents\Downloads\cs\C#\精通c#\csharp-6.0-and-the-.net-4.6-framework-master\ch07\ProcessMultipleExceptions\ProcessMultipleExceptions\bin\Debug\ProcessMultipleExceptions.exe.config
