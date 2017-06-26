@@ -1,1 +1,0 @@
-E:\Tiber\Projects\git\csharp-6.0-and-the-.net-4.6-framework\ch02\SimpleCSharpConsoleApp\SimpleCSharpConsoleApp\bin\Debug\SimpleCSharpConsoleApp.exe.config

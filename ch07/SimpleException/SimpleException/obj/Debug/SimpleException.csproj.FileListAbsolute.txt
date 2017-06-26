@@ -1,6 +1,0 @@
-E:\Tiber\Projects\git\csharp-6.0-and-the-.net-4.6-framework\ch07\SimpleException\SimpleException\bin\Debug\SimpleException.exe.config
-E:\Tiber\Projects\git\csharp-6.0-and-the-.net-4.6-framework\ch07\SimpleException\SimpleException\bin\Debug\SimpleException.exe
-E:\Tiber\Projects\git\csharp-6.0-and-the-.net-4.6-framework\ch07\SimpleException\SimpleException\bin\Debug\SimpleException.pdb
-E:\Tiber\Projects\git\csharp-6.0-and-the-.net-4.6-framework\ch07\SimpleException\SimpleException\obj\Debug\SimpleException.csprojResolveAssemblyReference.cache
-E:\Tiber\Projects\git\csharp-6.0-and-the-.net-4.6-framework\ch07\SimpleException\SimpleException\obj\Debug\SimpleException.exe
-E:\Tiber\Projects\git\csharp-6.0-and-the-.net-4.6-framework\ch07\SimpleException\SimpleException\obj\Debug\SimpleException.pdb
